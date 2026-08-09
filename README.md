@@ -1,4 +1,3 @@
- You will expand it into a full write-up in Part 2.
 
 ## Project Title: New York City's Bike Share Program
         Project Goal: To understand what drives daily ridership so that the Operations Team can plan bike availability and staffing.
